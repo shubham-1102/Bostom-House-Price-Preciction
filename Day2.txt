@@ -1,0 +1,78 @@
+Three libraries of pythons
+1. Numpy
+2. Pandas
+3. Matplotlib
+
+	Numpy:- When we want to play with Numbers using pythons
+	Use :- 1. Numpy provides efficient storage
+		   2. Provide better ways for handing data
+		   3. It is very fast
+		   4. It is very easy to learn
+		   5. It uses relatively less memory to store the data
+		   
+	Pandas:- It is an open source data analysis library written in python.
+			 It provide rich and highly robust data opertation
+	
+Day 3 :-
+
+Machine learning
+1. Supervised
+2. Unsupervised
+3. Reinforcement
+
+
+1. Supervised-
+	1. Classification - true/false
+			    male/female
+			    apple/banana
+	2. Regression - predicting anu continuous value
+		        for ex: 10k,12k,13k.......
+				age.......................
+
+
+Algo:-  1. Logestic Regression - classification
+        2. Linear Regression - regression 
+	3. Svm - support verctor machine - Both classifier and regression
+	4. Random forest - Both classifier and regression	
+
+
+Linear Regreesion
+	Linear : Straight
+	Regression: When we predict a continuous value
+
+AIM:- To find the best fit line with minimal residual error
+ 
+
+What is the equation of line ?
+	
+y = mx + c
+
+y - predicted value
+m - slope
+x - input value
+c - intercept  
+
+
+We will define a Cost function to get the bestfit Line
+ 
+	       m	    ^	    2
+j(m,c) = lamda 1/2m(Yi - Y1)
+		  i=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
